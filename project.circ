@@ -139,327 +139,222 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <rect fill="none" height="234" stroke="#000000" stroke-width="2" width="70" x="50" y="50"/>
       <circ-port height="8" pin="1920,1120" width="8" x="116" y="56"/>
       <circ-port height="8" pin="2620,1730" width="8" x="116" y="76"/>
+      <circ-port height="8" pin="630,2980" width="8" x="116" y="66"/>
       <circ-anchor facing="east" height="6" width="6" x="47" y="47"/>
     </appear>
     <wire from="(2860,970)" to="(2860,1080)"/>
-    <wire from="(2200,1040)" to="(2350,1040)"/>
-    <wire from="(2310,910)" to="(2310,960)"/>
-    <wire from="(2560,960)" to="(2570,960)"/>
+    <wire from="(750,3070)" to="(750,3080)"/>
+    <wire from="(810,3000)" to="(1060,3000)"/>
+    <wire from="(810,3000)" to="(810,3070)"/>
+    <wire from="(760,2820)" to="(760,2950)"/>
     <wire from="(2360,960)" to="(2370,960)"/>
     <wire from="(2190,910)" to="(2190,960)"/>
     <wire from="(2440,960)" to="(2450,960)"/>
-    <wire from="(2240,960)" to="(2250,960)"/>
-    <wire from="(2320,960)" to="(2330,960)"/>
     <wire from="(2730,1530)" to="(2730,1590)"/>
     <wire from="(2120,960)" to="(2130,960)"/>
     <wire from="(2200,960)" to="(2210,960)"/>
     <wire from="(2430,910)" to="(2430,960)"/>
     <wire from="(2920,960)" to="(2930,960)"/>
-    <wire from="(2020,930)" to="(2080,930)"/>
-    <wire from="(2800,960)" to="(2810,960)"/>
+    <wire from="(1020,2940)" to="(1020,2950)"/>
     <wire from="(2680,960)" to="(2690,960)"/>
     <wire from="(2380,930)" to="(2440,930)"/>
     <wire from="(2360,1030)" to="(2360,1100)"/>
-    <wire from="(2500,930)" to="(2560,930)"/>
+    <wire from="(730,2840)" to="(730,2950)"/>
     <wire from="(2730,1530)" to="(2780,1530)"/>
     <wire from="(2140,930)" to="(2200,930)"/>
-    <wire from="(2260,930)" to="(2320,930)"/>
-    <wire from="(2930,970)" to="(2930,980)"/>
-    <wire from="(2080,960)" to="(2090,960)"/>
+    <wire from="(660,2920)" to="(690,2920)"/>
+    <wire from="(910,3050)" to="(1130,3050)"/>
     <wire from="(2620,930)" to="(2680,930)"/>
-    <wire from="(2740,930)" to="(2800,930)"/>
-    <wire from="(2070,910)" to="(2070,960)"/>
     <wire from="(2620,970)" to="(2620,1040)"/>
     <wire from="(2860,930)" to="(2920,930)"/>
+    <wire from="(810,3070)" to="(840,3070)"/>
     <wire from="(2140,970)" to="(2140,1050)"/>
-    <wire from="(2740,970)" to="(2740,1060)"/>
-    <wire from="(2020,970)" to="(2020,1070)"/>
-    <wire from="(1860,930)" to="(2020,930)"/>
+    <wire from="(880,2920)" to="(890,2920)"/>
+    <wire from="(960,2760)" to="(970,2760)"/>
+    <wire from="(1110,2900)" to="(1130,2900)"/>
     <wire from="(2080,930)" to="(2080,960)"/>
     <wire from="(2710,1590)" to="(2730,1590)"/>
     <wire from="(2620,1730)" to="(2650,1730)"/>
-    <wire from="(2330,1060)" to="(2330,1100)"/>
-    <wire from="(2700,1620)" to="(2700,1720)"/>
     <wire from="(2440,970)" to="(2440,1010)"/>
-    <wire from="(2320,970)" to="(2320,1020)"/>
+    <wire from="(660,2860)" to="(720,2860)"/>
     <wire from="(2560,970)" to="(2570,970)"/>
-    <wire from="(2440,970)" to="(2450,970)"/>
     <wire from="(2320,970)" to="(2330,970)"/>
-    <wire from="(2200,970)" to="(2210,970)"/>
+    <wire from="(780,2860)" to="(780,2950)"/>
     <wire from="(2350,1040)" to="(2350,1100)"/>
-    <wire from="(2920,970)" to="(2930,970)"/>
-    <wire from="(2560,970)" to="(2560,1030)"/>
     <wire from="(2800,970)" to="(2810,970)"/>
-    <wire from="(2680,970)" to="(2690,970)"/>
+    <wire from="(1130,2760)" to="(1130,2900)"/>
     <wire from="(2380,970)" to="(2380,1100)"/>
-    <wire from="(1850,1160)" to="(2310,1160)"/>
     <wire from="(2080,970)" to="(2090,970)"/>
     <wire from="(1920,1120)" to="(2320,1120)"/>
-    <wire from="(2920,930)" to="(2920,960)"/>
     <wire from="(2800,930)" to="(2800,960)"/>
-    <wire from="(2680,930)" to="(2680,960)"/>
     <wire from="(2560,930)" to="(2560,960)"/>
-    <wire from="(2440,930)" to="(2440,960)"/>
     <wire from="(2320,930)" to="(2320,960)"/>
     <wire from="(2260,1030)" to="(2360,1030)"/>
-    <wire from="(2200,930)" to="(2200,960)"/>
+    <wire from="(680,2940)" to="(680,2950)"/>
     <wire from="(2750,1600)" to="(2750,1710)"/>
+    <wire from="(810,3070)" to="(810,3080)"/>
+    <wire from="(740,2820)" to="(740,2950)"/>
+    <wire from="(2250,910)" to="(2250,960)"/>
+    <wire from="(2500,960)" to="(2510,960)"/>
+    <wire from="(2420,960)" to="(2430,960)"/>
+    <wire from="(800,3060)" to="(800,3090)"/>
+    <wire from="(2260,960)" to="(2270,960)"/>
+    <wire from="(2920,970)" to="(2920,1090)"/>
+    <wire from="(2180,960)" to="(2190,960)"/>
+    <wire from="(230,2090)" to="(230,2120)"/>
+    <wire from="(790,3030)" to="(960,3030)"/>
+    <wire from="(2740,960)" to="(2750,960)"/>
+    <wire from="(2440,930)" to="(2500,930)"/>
+    <wire from="(790,3000)" to="(810,3000)"/>
+    <wire from="(2200,930)" to="(2260,930)"/>
+    <wire from="(2200,970)" to="(2200,1040)"/>
+    <wire from="(2020,960)" to="(2030,960)"/>
+    <wire from="(2680,930)" to="(2740,930)"/>
+    <wire from="(2680,970)" to="(2680,1050)"/>
+    <wire from="(2750,1520)" to="(2750,1600)"/>
+    <wire from="(2310,1130)" to="(2310,1160)"/>
+    <wire from="(1110,2760)" to="(1130,2760)"/>
+    <wire from="(2670,1720)" to="(2700,1720)"/>
+    <wire from="(2340,1050)" to="(2340,1100)"/>
+    <wire from="(2380,970)" to="(2390,970)"/>
+    <wire from="(2710,1610)" to="(2780,1610)"/>
+    <wire from="(660,2900)" to="(700,2900)"/>
+    <wire from="(2500,970)" to="(2500,1020)"/>
+    <wire from="(690,2920)" to="(690,2950)"/>
+    <wire from="(2140,970)" to="(2150,970)"/>
+    <wire from="(750,2800)" to="(750,2950)"/>
+    <wire from="(2860,970)" to="(2870,970)"/>
+    <wire from="(2260,970)" to="(2260,1030)"/>
+    <wire from="(2620,970)" to="(2630,970)"/>
+    <wire from="(2780,1490)" to="(2780,1500)"/>
+    <wire from="(2080,1060)" to="(2330,1060)"/>
+    <wire from="(880,3050)" to="(910,3050)"/>
+    <wire from="(660,2840)" to="(730,2840)"/>
+    <wire from="(860,2930)" to="(860,2990)"/>
+    <wire from="(2860,930)" to="(2860,960)"/>
+    <wire from="(2620,930)" to="(2620,960)"/>
+    <wire from="(790,3050)" to="(860,3050)"/>
+    <wire from="(2380,930)" to="(2380,960)"/>
+    <wire from="(790,3060)" to="(800,3060)"/>
+    <wire from="(630,2980)" to="(640,2980)"/>
+    <wire from="(2140,930)" to="(2140,960)"/>
+    <wire from="(810,3080)" to="(870,3080)"/>
+    <wire from="(2200,1040)" to="(2350,1040)"/>
+    <wire from="(960,2900)" to="(960,3030)"/>
+    <wire from="(2310,910)" to="(2310,960)"/>
+    <wire from="(2560,960)" to="(2570,960)"/>
+    <wire from="(2240,960)" to="(2250,960)"/>
+    <wire from="(2320,960)" to="(2330,960)"/>
+    <wire from="(2020,930)" to="(2080,930)"/>
+    <wire from="(2800,960)" to="(2810,960)"/>
+    <wire from="(770,2840)" to="(790,2840)"/>
+    <wire from="(2500,930)" to="(2560,930)"/>
+    <wire from="(770,2840)" to="(770,2950)"/>
+    <wire from="(2260,930)" to="(2320,930)"/>
+    <wire from="(2930,970)" to="(2930,980)"/>
+    <wire from="(2080,960)" to="(2090,960)"/>
+    <wire from="(2740,930)" to="(2800,930)"/>
+    <wire from="(2070,910)" to="(2070,960)"/>
+    <wire from="(1060,2940)" to="(1060,3000)"/>
+    <wire from="(760,2820)" to="(790,2820)"/>
+    <wire from="(2740,970)" to="(2740,1060)"/>
+    <wire from="(40,2600)" to="(50,2600)"/>
+    <wire from="(2020,970)" to="(2020,1070)"/>
+    <wire from="(780,2860)" to="(790,2860)"/>
+    <wire from="(1860,930)" to="(2020,930)"/>
+    <wire from="(700,2900)" to="(700,2950)"/>
+    <wire from="(2330,1060)" to="(2330,1100)"/>
+    <wire from="(2700,1620)" to="(2700,1720)"/>
+    <wire from="(2320,970)" to="(2320,1020)"/>
+    <wire from="(2440,970)" to="(2450,970)"/>
+    <wire from="(2200,970)" to="(2210,970)"/>
+    <wire from="(2920,970)" to="(2930,970)"/>
+    <wire from="(2560,970)" to="(2560,1030)"/>
+    <wire from="(2680,970)" to="(2690,970)"/>
+    <wire from="(660,2940)" to="(680,2940)"/>
+    <wire from="(1850,1160)" to="(2310,1160)"/>
+    <wire from="(2920,930)" to="(2920,960)"/>
+    <wire from="(2680,930)" to="(2680,960)"/>
+    <wire from="(790,2990)" to="(860,2990)"/>
+    <wire from="(860,3070)" to="(870,3070)"/>
+    <wire from="(2440,930)" to="(2440,960)"/>
+    <wire from="(790,2980)" to="(870,2980)"/>
+    <wire from="(2200,930)" to="(2200,960)"/>
+    <wire from="(690,3070)" to="(690,3080)"/>
+    <wire from="(960,2760)" to="(960,2900)"/>
     <wire from="(2080,970)" to="(2080,1060)"/>
+    <wire from="(660,2880)" to="(710,2880)"/>
+    <wire from="(800,3090)" to="(860,3090)"/>
+    <wire from="(710,2880)" to="(710,2950)"/>
     <wire from="(2020,1070)" to="(2320,1070)"/>
     <wire from="(2440,1060)" to="(2440,1100)"/>
     <wire from="(2800,970)" to="(2800,1070)"/>
     <wire from="(2410,1030)" to="(2560,1030)"/>
-    <wire from="(2250,910)" to="(2250,960)"/>
-    <wire from="(2500,960)" to="(2510,960)"/>
     <wire from="(2380,960)" to="(2390,960)"/>
     <wire from="(2130,910)" to="(2130,960)"/>
-    <wire from="(2420,960)" to="(2430,960)"/>
-    <wire from="(2260,960)" to="(2270,960)"/>
-    <wire from="(2920,970)" to="(2920,1090)"/>
     <wire from="(2310,1130)" to="(2320,1130)"/>
     <wire from="(2300,960)" to="(2310,960)"/>
     <wire from="(2140,960)" to="(2150,960)"/>
     <wire from="(2370,910)" to="(2370,960)"/>
     <wire from="(2430,1050)" to="(2430,1100)"/>
-    <wire from="(2180,960)" to="(2190,960)"/>
     <wire from="(2420,1040)" to="(2420,1100)"/>
     <wire from="(2670,1710)" to="(2750,1710)"/>
-    <wire from="(230,2090)" to="(230,2120)"/>
     <wire from="(2080,930)" to="(2140,930)"/>
+    <wire from="(1040,2940)" to="(1040,2950)"/>
     <wire from="(2420,1040)" to="(2620,1040)"/>
     <wire from="(2860,960)" to="(2870,960)"/>
     <wire from="(80,2060)" to="(180,2060)"/>
     <wire from="(2620,960)" to="(2630,960)"/>
-    <wire from="(2740,960)" to="(2750,960)"/>
-    <wire from="(2440,930)" to="(2500,930)"/>
     <wire from="(2560,930)" to="(2620,930)"/>
-    <wire from="(2200,930)" to="(2260,930)"/>
     <wire from="(2320,930)" to="(2380,930)"/>
-    <wire from="(2200,970)" to="(2200,1040)"/>
-    <wire from="(2020,960)" to="(2030,960)"/>
+    <wire from="(910,3050)" to="(910,3090)"/>
     <wire from="(2060,960)" to="(2070,960)"/>
     <wire from="(2390,1010)" to="(2440,1010)"/>
     <wire from="(2320,1020)" to="(2370,1020)"/>
-    <wire from="(2680,930)" to="(2740,930)"/>
     <wire from="(2800,930)" to="(2860,930)"/>
     <wire from="(2470,1090)" to="(2470,1100)"/>
     <wire from="(2460,1080)" to="(2460,1100)"/>
     <wire from="(2370,1020)" to="(2370,1100)"/>
     <wire from="(2400,1020)" to="(2500,1020)"/>
-    <wire from="(2680,970)" to="(2680,1050)"/>
-    <wire from="(2750,1520)" to="(2750,1600)"/>
+    <wire from="(880,2900)" to="(890,2900)"/>
+    <wire from="(960,2900)" to="(970,2900)"/>
     <wire from="(2450,1070)" to="(2450,1100)"/>
-    <wire from="(2310,1130)" to="(2310,1160)"/>
+    <wire from="(660,2820)" to="(740,2820)"/>
+    <wire from="(870,2930)" to="(870,2980)"/>
     <wire from="(2020,930)" to="(2020,960)"/>
+    <wire from="(1130,2900)" to="(1130,3050)"/>
+    <wire from="(870,3060)" to="(870,3070)"/>
+    <wire from="(720,3070)" to="(720,3080)"/>
     <wire from="(2450,1070)" to="(2800,1070)"/>
     <wire from="(2750,1600)" to="(2780,1600)"/>
     <wire from="(2750,1520)" to="(2780,1520)"/>
-    <wire from="(2670,1720)" to="(2700,1720)"/>
     <wire from="(200,2070)" to="(200,2090)"/>
     <wire from="(2500,970)" to="(2510,970)"/>
-    <wire from="(2340,1050)" to="(2340,1100)"/>
-    <wire from="(2380,970)" to="(2390,970)"/>
-    <wire from="(2710,1610)" to="(2780,1610)"/>
     <wire from="(2260,970)" to="(2270,970)"/>
-    <wire from="(2500,970)" to="(2500,1020)"/>
     <wire from="(2460,1080)" to="(2860,1080)"/>
-    <wire from="(2140,970)" to="(2150,970)"/>
+    <wire from="(720,2860)" to="(720,2950)"/>
     <wire from="(2140,1050)" to="(2340,1050)"/>
     <wire from="(2470,1090)" to="(2920,1090)"/>
-    <wire from="(2860,970)" to="(2870,970)"/>
-    <wire from="(2260,970)" to="(2260,1030)"/>
-    <wire from="(2620,970)" to="(2630,970)"/>
     <wire from="(2740,970)" to="(2750,970)"/>
-    <wire from="(2780,1490)" to="(2780,1500)"/>
     <wire from="(2410,1030)" to="(2410,1100)"/>
     <wire from="(2430,1050)" to="(2680,1050)"/>
     <wire from="(200,2090)" to="(230,2090)"/>
-    <wire from="(2080,1060)" to="(2330,1060)"/>
     <wire from="(2020,970)" to="(2030,970)"/>
+    <wire from="(880,3090)" to="(910,3090)"/>
     <wire from="(2440,1060)" to="(2740,1060)"/>
     <wire from="(2400,1020)" to="(2400,1100)"/>
-    <wire from="(2860,930)" to="(2860,960)"/>
-    <wire from="(2620,930)" to="(2620,960)"/>
     <wire from="(2740,930)" to="(2740,960)"/>
     <wire from="(2500,930)" to="(2500,960)"/>
-    <wire from="(2380,930)" to="(2380,960)"/>
     <wire from="(2260,930)" to="(2260,960)"/>
     <wire from="(2320,1070)" to="(2320,1100)"/>
     <wire from="(2390,1010)" to="(2390,1100)"/>
-    <wire from="(2140,930)" to="(2140,960)"/>
-    <comp lib="0" loc="(190,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a0"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
+    <comp lib="0" loc="(660,2940)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r0"/>
     </comp>
-    <comp lib="5" loc="(190,620)" name="DotMatrix">
+    <comp lib="5" loc="(370,1700)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="2" loc="(2780,1600)" name="Decoder">
-      <a name="facing" val="north"/>
-      <a name="select" val="5"/>
-      <a name="disabled" val="0"/>
-    </comp>
-    <comp lib="5" loc="(730,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(550,1340)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(240,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a5"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2790,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a8"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(80,2060)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="clk"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(550,1520)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2310,910)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a4"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(1270,1520)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(340,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8af"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2800,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a9"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(220,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a3"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(1270,1160)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="2" loc="(2780,1520)" name="Decoder">
-      <a name="facing" val="north"/>
-      <a name="select" val="5"/>
-      <a name="disabled" val="0"/>
-    </comp>
-    <comp lib="5" loc="(1270,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(910,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2120,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1450,1160)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(910,1340)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(730,1160)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1270,1340)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2850,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8ae"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(370,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(330,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8ae"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(190,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2780,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a7"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2860,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8af"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="4" loc="(2960,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1090,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1450,1340)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(550,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(550,800)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(190,800)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2840,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(190,1160)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="2" loc="(2700,1620)" name="Decoder"/>
-    <comp lib="4" loc="(2600,960)" name="Register">
-      <a name="width" val="16"/>
     </comp>
     <comp lib="0" loc="(1860,930)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -467,76 +362,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="column"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="5" loc="(550,1160)" name="DotMatrix">
+    <comp lib="5" loc="(730,1520)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="0" loc="(210,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a2"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(1920,1120)" name="Pin">
-      <a name="width" val="4"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="column number"/>
-    </comp>
-    <comp lib="5" loc="(1270,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2830,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8ac"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(1090,1520)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(190,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(320,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8ad"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(550,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(550,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1090,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2660,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2780,1490)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="label" val="1a"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(270,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a8"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(180,2060)" name="Keyboard"/>
-    <comp lib="4" loc="(2540,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1090,1700)" name="DotMatrix">
+    <comp lib="5" loc="(1450,1340)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
@@ -545,10 +375,30 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="select" val="4"/>
       <a name="disabled" val="0"/>
     </comp>
-    <comp lib="0" loc="(2250,910)" name="Tunnel">
+    <comp lib="5" loc="(550,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1090,1340)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(730,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(890,2920)" name="Tunnel">
+      <a name="label" val="data"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1270,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2190,910)" name="Tunnel">
       <a name="facing" val="south"/>
       <a name="width" val="16"/>
-      <a name="label" val="8a3"/>
+      <a name="label" val="8a2"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="0" loc="(1850,1160)" name="Tunnel">
@@ -556,89 +406,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="1a"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="4" loc="(2420,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2060,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1450,1700)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(230,2120)" name="Button">
-      <a name="facing" val="north"/>
-      <a name="label" val="Clear"/>
-      <a name="labelloc" val="south"/>
-    </comp>
-    <comp lib="4" loc="(2180,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2070,910)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a0"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(260,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a7"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(910,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(200,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a1"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2810,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8aa"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(1450,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(370,1700)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(370,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2780,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2370,910)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a5"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2620,1730)" name="Pin">
-      <a name="width" val="6"/>
+    <comp lib="0" loc="(630,2980)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="bus 0"/>
-    </comp>
-    <comp lib="5" loc="(370,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(730,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(910,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
     </comp>
     <comp lib="0" loc="(290,620)" name="Tunnel">
       <a name="facing" val="north"/>
@@ -646,31 +416,40 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="8aa"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="5" loc="(190,1700)" name="DotMatrix">
+    <comp lib="5" loc="(1090,1160)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(180,2060)" name="Keyboard"/>
+    <comp lib="2" loc="(2780,1600)" name="Decoder">
+      <a name="facing" val="north"/>
+      <a name="select" val="5"/>
+      <a name="disabled" val="0"/>
+    </comp>
+    <comp lib="0" loc="(2650,1730)" name="Splitter">
+      <a name="incoming" val="6"/>
+      <a name="bit1" val="0"/>
+      <a name="bit2" val="0"/>
+      <a name="bit3" val="0"/>
+      <a name="bit4" val="0"/>
+      <a name="bit5" val="1"/>
+    </comp>
+    <comp lib="4" loc="(2900,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2810,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8aa"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(2830,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8ac"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="5" loc="(1450,1880)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(910,1160)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(190,1340)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1450,1520)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(1450,980)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(910,1700)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
@@ -678,18 +457,119 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="5" loc="(1450,800)" name="DotMatrix">
+    <comp lib="5" loc="(750,3080)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(550,1880)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="4" loc="(2720,960)" name="Register">
+    <comp lib="0" loc="(2620,1730)" name="Pin">
+      <a name="width" val="6"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="bus 0"/>
+    </comp>
+    <comp lib="0" loc="(790,2820)" name="Probe">
+      <a name="facing" val="west"/>
+      <a name="radix" val="16"/>
+      <a name="label" val="fp"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(660,2900)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r2"/>
+    </comp>
+    <comp lib="5" loc="(1090,1880)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="7" loc="(730,3020)" name="cdm16"/>
+    <comp lib="5" loc="(370,1340)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(550,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2130,910)" name="Tunnel">
+      <a name="facing" val="south"/>
       <a name="width" val="16"/>
+      <a name="label" val="8a1"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(370,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(790,2860)" name="Probe">
+      <a name="facing" val="west"/>
+      <a name="radix" val="16"/>
+      <a name="label" val="ps"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(80,2060)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="clk"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="5" loc="(730,1340)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="5" loc="(730,1700)" name="DotMatrix">
+    <comp lib="5" loc="(550,1340)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(550,980)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(690,3080)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(230,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a4"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(230,2120)" name="Button">
+      <a name="facing" val="north"/>
+      <a name="label" val="Clear"/>
+      <a name="labelloc" val="south"/>
+    </comp>
+    <comp lib="0" loc="(270,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a8"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="4" loc="(2300,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="1" loc="(880,3050)" name="Controlled Buffer">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="5" loc="(550,1520)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(370,1880)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(1020,2820)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="code"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="4" loc="(2420,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="5" loc="(910,1880)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
@@ -699,21 +579,418 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="8ab"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="4" loc="(2360,960)" name="Register">
+    <comp lib="4" loc="(2660,960)" name="Register">
       <a name="width" val="16"/>
     </comp>
-    <comp lib="5" loc="(1270,1700)" name="DotMatrix">
+    <comp lib="5" loc="(910,1520)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="5" loc="(1090,1340)" name="DotMatrix">
+    <comp lib="5" loc="(910,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(910,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(660,2920)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r1"/>
+    </comp>
+    <comp lib="0" loc="(2820,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8ab"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(2800,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a9"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(210,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a2"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(190,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(730,1880)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2600,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(220,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a3"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(2790,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a8"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="2" loc="(2700,1620)" name="Decoder"/>
+    <comp lib="5" loc="(1450,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(190,1340)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(660,2860)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r4"/>
+    </comp>
+    <comp lib="0" loc="(250,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a6"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="4" loc="(2720,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1450,980)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1270,1340)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(370,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(370,1520)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1090,1520)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(730,980)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1270,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(660,2820)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r6"/>
+    </comp>
+    <comp lib="0" loc="(2430,910)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a6"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1450,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(660,2880)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r3"/>
+    </comp>
+    <comp lib="0" loc="(2850,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8ae"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(660,2840)" name="Probe">
+      <a name="radix" val="16"/>
+      <a name="label" val="r5"/>
+    </comp>
+    <comp lib="5" loc="(910,980)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2370,910)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a5"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="4" loc="(1110,2900)" name="RAM">
+      <a name="addrWidth" val="16"/>
+      <a name="dataWidth" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2310,910)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a4"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1270,1880)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2780,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a7"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(2780,1490)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="label" val="1a"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(910,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(340,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8af"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="1" loc="(860,3070)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="5" loc="(370,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1270,1520)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1450,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="2" loc="(2780,1520)" name="Decoder">
+      <a name="facing" val="north"/>
+      <a name="select" val="5"/>
+      <a name="disabled" val="0"/>
+    </comp>
+    <comp lib="0" loc="(260,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a7"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(190,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2960,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2360,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="5" loc="(550,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2250,910)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a3"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(190,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a0"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1450,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2840,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="5" loc="(730,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2060,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2780,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1090,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(2860,810)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8af"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(240,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a5"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(40,2600)" name="Clock"/>
+    <comp lib="5" loc="(190,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="1" loc="(860,3090)" name="Controlled Buffer">
+      <a name="facing" val="west"/>
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(50,2600)" name="Tunnel">
+      <a name="label" val="clk"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="1" loc="(1020,2800)" name="NOT Gate">
+      <a name="facing" val="north"/>
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(330,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8ae"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(550,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(1270,1160)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2120,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(1020,2950)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="data"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(190,1880)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
     <comp lib="4" loc="(2480,960)" name="Register">
       <a name="width" val="16"/>
     </comp>
-    <comp lib="5" loc="(1090,1880)" name="DotMatrix">
+    <comp lib="5" loc="(730,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2180,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(280,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a9"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(1040,2950)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="label" val="clk"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(890,2900)" name="Tunnel">
+      <a name="label" val="code"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1090,1700)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(310,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8ac"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(720,3080)" name="Probe">
+      <a name="facing" val="north"/>
+      <a name="radix" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2540,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(320,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8ad"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="0" loc="(750,2800)" name="Probe">
+      <a name="facing" val="south"/>
+      <a name="radix" val="16"/>
+      <a name="label" val="fp"/>
+    </comp>
+    <comp lib="0" loc="(790,2840)" name="Probe">
+      <a name="facing" val="west"/>
+      <a name="radix" val="16"/>
+      <a name="label" val="sp"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="2" loc="(870,2930)" name="Decoder"/>
+    <comp lib="0" loc="(2070,910)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a0"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1090,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(730,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(200,620)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="16"/>
+      <a name="label" val="8a1"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
+    <comp lib="5" loc="(1270,620)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="4" loc="(2240,960)" name="Register">
+      <a name="width" val="16"/>
+    </comp>
+    <comp lib="0" loc="(1920,1120)" name="Pin">
+      <a name="width" val="4"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="column number"/>
+    </comp>
+    <comp lib="5" loc="(1450,1520)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(190,800)" name="DotMatrix">
+      <a name="matrixcols" val="16"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="5" loc="(370,980)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
@@ -726,65 +1003,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="5" loc="(1270,800)" name="DotMatrix">
+    <comp lib="5" loc="(910,1340)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="5" loc="(370,1520)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2240,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(910,1520)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(370,800)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="4" loc="(2300,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="0" loc="(280,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a9"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2190,910)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a2"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(910,800)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(370,1160)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2130,910)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a1"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(230,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a4"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(730,620)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="5" loc="(550,1700)" name="DotMatrix">
+    <comp lib="5" loc="(190,980)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
@@ -794,60 +1017,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="8ad"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="5" loc="(1090,1160)" name="DotMatrix">
+    <comp lib="5" loc="(910,800)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="0" loc="(310,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8ac"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="0" loc="(2820,810)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8ab"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(730,1520)" name="DotMatrix">
+    <comp lib="5" loc="(1090,980)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
     </comp>
-    <comp lib="5" loc="(1090,800)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2430,910)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a6"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="5" loc="(370,1340)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
-    </comp>
-    <comp lib="0" loc="(2650,1730)" name="Splitter">
-      <a name="incoming" val="6"/>
-      <a name="bit1" val="0"/>
-      <a name="bit2" val="0"/>
-      <a name="bit3" val="0"/>
-      <a name="bit4" val="0"/>
-      <a name="bit5" val="1"/>
-    </comp>
-    <comp lib="0" loc="(250,620)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="8a6"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
-    <comp lib="4" loc="(2900,960)" name="Register">
-      <a name="width" val="16"/>
-    </comp>
-    <comp lib="5" loc="(730,800)" name="DotMatrix">
-      <a name="matrixcols" val="16"/>
-      <a name="matrixrows" val="16"/>
+    <comp lib="4" loc="(1110,2760)" name="ROM">
+      <a name="addrWidth" val="16"/>
+      <a name="dataWidth" val="16"/>
+      <a name="contents">addr/data: 16 16
+0
+</a>
     </comp>
   </circuit>
   <circuit name="asset-memory">
@@ -855,10 +1038,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <comp lib="0" loc="(150,250)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="clock"/>
-    </comp>
     <comp lib="0" loc="(660,170)" name="Pin">
       <a name="facing" val="west"/>
       <a name="width" val="16"/>
@@ -866,16 +1045,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="column"/>
       <a name="labelloc" val="east"/>
     </comp>
+    <comp lib="0" loc="(150,170)" name="Pin">
+      <a name="width" val="16"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="addr"/>
+    </comp>
     <comp lib="0" loc="(660,250)" name="Pin">
       <a name="facing" val="west"/>
       <a name="tristate" val="false"/>
       <a name="label" val="end"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(150,170)" name="Pin">
-      <a name="width" val="16"/>
+    <comp lib="0" loc="(150,250)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="addr"/>
+      <a name="label" val="clock"/>
     </comp>
   </circuit>
   <circuit name="marking-numbers">
