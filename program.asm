@@ -43,8 +43,47 @@ main>
     
     # ldi r0, step_data # 0x1234
     # ld r0, r0
+    ldi r2, 0x001f
 
-    
+    ldi r7, 32
+    do  
+        clr r4
+        clr r5
+        clr r6
+        # dec r0
+        
+        shl r0, r3
+        # inc r3
+
+        ldi r1, chess_field
+        add r0, r1
+        ld r1, r1
+
+        and r1, r2, r1
+
+        shl r3, r5, 5
+        or r1, r5
+        
+        # 
+
+        ldi r1, chess_field
+        add r0, r1
+        ld r1, r1
+        shr r1, r1, 8
+
+        and r1, r2, r1
+
+        inc r3
+        shl r3, r6, 5
+        or r1, r6
+
+
+
+        ldi r4, 0x8000
+
+        inc r0
+        cmp r0, r7
+    until z
 
     halt
 
