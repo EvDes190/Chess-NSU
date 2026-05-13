@@ -52,12 +52,14 @@ main>
         clr r6
         # dec r0
         
-        shl r0, r3
+        move r0, r3
+        shl r3, r3, 1
         # inc r3
 
         ldi r1, chess_field
         add r0, r1
         ld r1, r1
+        shr r1, r1, 8
 
         and r1, r2, r1
 
@@ -69,20 +71,21 @@ main>
         ldi r1, chess_field
         add r0, r1
         ld r1, r1
-        shr r1, r1, 8
+    
 
         and r1, r2, r1
 
         inc r3
         shl r3, r6, 5
         or r1, r6
-
+        
 
 
         ldi r4, 0x8000
 
         inc r0
         cmp r0, r7
+        wait
     until z
 
     halt
