@@ -40,7 +40,7 @@ default_handler>
 rsect main
 
 main>
-    
+    jsr valid
     # ldi r0, step_data # 0x1234
     # ld r0, r0
     ldi r2, 0x001f
@@ -88,9 +88,13 @@ main>
         wait
     until z
 
+
+
     halt
 
-
+valid:
+    ldi r7, 0x0001
+    rts
 end.
 
 
