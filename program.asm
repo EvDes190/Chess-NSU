@@ -79,46 +79,58 @@ main>
         inc r0
 
 
-        ldi r4, 0x8000
+        ldi r7, 0x8000
 
         cmp r0, r3
         wait
     until z
 
-    #valid check
-    # do  
-    #     wait
-    #     ldi r0, step_data
-    #     ld r0, r0
+    # valid check
+    do  
+        wait
+        ldi r0, step_data
+        ld r0, r0
 
-    #     ldi r3, 0x003f
+        ldi r3, 0x003f
 
-    #     move r0, r1
-    #     move r0, r2
-    #     shr r2, r2, 6
+        move r0, r1
+        move r0, r2
+        shr r2, r2, 6
 
-    #     and r3, r1
-    #     and r3, r2
+        and r3, r1
+        and r3, r2
 
 
-    #     ldi r3, chess_field
-    #     add r1, r3
+        # ldi r3, chess_field
+        # add r1, r3
 
-    #     ld r3, r3
+        # ld r3, r3
 
-    #     ldi r4, chess_field
-    #     add r2, r4
+        # ldi r4, chess_field
+        # add r2, r4
 
-    #     st r3, r4
+        # st r3, r4
+        # shl r2, r6, 5
+        # ldi r0, 0x001f
+        # and r0, r3
+        # or r3, r6
 
-    #     ldi r3, chess_field
-    #     add r1, r3
+        # ldi r3, chess_field
+        # add r1, r3
 
-    #     clr r4
-    #     st r4, r3
+        # clr r4
+        # st r4, r3
 
-    #     wait
-    # until z
+
+        # shl r1, r5, 5
+
+
+        # or r4, r5
+
+        # ldi r7, 0x8000
+
+        wait
+    until z
 
     halt
 
