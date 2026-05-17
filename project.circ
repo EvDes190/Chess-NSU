@@ -41738,57 +41738,49 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabelfont" val="SansSerif plain 12"/>
     <wire from="(700,2100)" to="(700,2110)"/>
     <wire from="(480,1840)" to="(480,1850)"/>
-    <wire from="(130,1960)" to="(190,1960)"/>
-    <wire from="(90,1970)" to="(90,1980)"/>
-    <wire from="(190,1710)" to="(190,1720)"/>
-    <wire from="(100,1740)" to="(150,1740)"/>
+    <wire from="(90,1730)" to="(90,1740)"/>
+    <wire from="(170,1530)" to="(170,1540)"/>
     <wire from="(250,2130)" to="(250,2140)"/>
     <wire from="(570,1840)" to="(570,1910)"/>
-    <wire from="(80,1920)" to="(80,1940)"/>
-    <wire from="(60,1890)" to="(60,1980)"/>
-    <wire from="(130,1930)" to="(130,1960)"/>
+    <wire from="(80,1680)" to="(80,1700)"/>
+    <wire from="(150,1510)" to="(150,1530)"/>
+    <wire from="(60,1650)" to="(60,1740)"/>
+    <wire from="(110,1510)" to="(110,1540)"/>
     <wire from="(320,2090)" to="(360,2090)"/>
     <wire from="(640,1840)" to="(640,1860)"/>
-    <wire from="(80,2000)" to="(180,2000)"/>
-    <wire from="(70,1990)" to="(170,1990)"/>
     <wire from="(820,2170)" to="(840,2170)"/>
-    <wire from="(60,2080)" to="(90,2080)"/>
+    <wire from="(190,2090)" to="(220,2090)"/>
     <wire from="(380,2080)" to="(410,2080)"/>
+    <wire from="(100,2110)" to="(190,2110)"/>
     <wire from="(810,1890)" to="(810,1930)"/>
     <wire from="(200,2070)" to="(220,2070)"/>
     <wire from="(680,1860)" to="(710,1860)"/>
     <wire from="(40,2470)" to="(60,2470)"/>
-    <wire from="(180,1890)" to="(180,2000)"/>
-    <wire from="(140,1730)" to="(160,1730)"/>
-    <wire from="(70,2060)" to="(90,2060)"/>
     <wire from="(430,2030)" to="(430,2070)"/>
-    <wire from="(80,2000)" to="(80,2050)"/>
     <wire from="(410,2050)" to="(420,2050)"/>
-    <wire from="(160,1720)" to="(170,1720)"/>
+    <wire from="(160,2080)" to="(170,2080)"/>
     <wire from="(860,2140)" to="(870,2140)"/>
     <wire from="(790,2150)" to="(800,2150)"/>
     <wire from="(830,2150)" to="(840,2150)"/>
     <wire from="(720,2080)" to="(730,2080)"/>
-    <wire from="(70,1990)" to="(70,2060)"/>
-    <wire from="(160,1730)" to="(160,1740)"/>
-    <wire from="(210,1980)" to="(210,1990)"/>
-    <wire from="(140,1710)" to="(140,1730)"/>
-    <wire from="(160,2090)" to="(160,2110)"/>
+    <wire from="(170,1650)" to="(170,1720)"/>
+    <wire from="(200,1530)" to="(200,1540)"/>
+    <wire from="(220,1510)" to="(220,1530)"/>
+    <wire from="(190,1520)" to="(190,1540)"/>
     <wire from="(570,1910)" to="(570,2120)"/>
-    <wire from="(100,1710)" to="(100,1740)"/>
     <wire from="(730,2090)" to="(730,2170)"/>
-    <wire from="(190,1960)" to="(190,1990)"/>
     <wire from="(1350,1200)" to="(1350,1210)"/>
     <wire from="(710,1840)" to="(710,1860)"/>
-    <wire from="(100,1930)" to="(130,1930)"/>
-    <wire from="(60,1980)" to="(60,2080)"/>
-    <wire from="(170,1890)" to="(170,1990)"/>
-    <wire from="(160,2050)" to="(160,2090)"/>
+    <wire from="(100,1690)" to="(130,1690)"/>
+    <wire from="(170,1720)" to="(200,1720)"/>
+    <wire from="(130,1690)" to="(130,1790)"/>
     <wire from="(420,2340)" to="(440,2340)"/>
     <wire from="(440,2090)" to="(450,2090)"/>
     <wire from="(420,2310)" to="(430,2310)"/>
-    <wire from="(80,2050)" to="(90,2050)"/>
-    <wire from="(30,1880)" to="(40,1880)"/>
+    <wire from="(260,1750)" to="(270,1750)"/>
+    <wire from="(190,1520)" to="(200,1520)"/>
+    <wire from="(130,1790)" to="(270,1790)"/>
+    <wire from="(30,1640)" to="(40,1640)"/>
     <wire from="(490,2120)" to="(570,2120)"/>
     <wire from="(840,2170)" to="(850,2170)"/>
     <wire from="(710,1920)" to="(720,1920)"/>
@@ -41798,30 +41790,30 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(680,1860)" to="(680,1870)"/>
     <wire from="(830,1890)" to="(830,1900)"/>
     <wire from="(820,2160)" to="(820,2170)"/>
-    <wire from="(160,2090)" to="(220,2090)"/>
-    <wire from="(190,1730)" to="(190,1740)"/>
-    <wire from="(210,1710)" to="(210,1730)"/>
+    <wire from="(170,1510)" to="(170,1520)"/>
+    <wire from="(90,1740)" to="(200,1740)"/>
     <wire from="(570,1910)" to="(670,1910)"/>
-    <wire from="(180,1720)" to="(180,1740)"/>
+    <wire from="(180,1560)" to="(180,1580)"/>
+    <wire from="(180,1520)" to="(180,1540)"/>
+    <wire from="(190,2090)" to="(190,2110)"/>
     <wire from="(780,1840)" to="(780,1860)"/>
     <wire from="(930,2030)" to="(930,2050)"/>
-    <wire from="(60,1980)" to="(90,1980)"/>
+    <wire from="(60,1740)" to="(90,1740)"/>
     <wire from="(380,2100)" to="(410,2100)"/>
     <wire from="(550,2310)" to="(580,2310)"/>
-    <wire from="(150,2090)" to="(160,2090)"/>
-    <wire from="(180,1720)" to="(190,1720)"/>
-    <wire from="(200,2020)" to="(200,2070)"/>
+    <wire from="(200,1530)" to="(220,1530)"/>
+    <wire from="(180,1710)" to="(200,1710)"/>
+    <wire from="(160,2060)" to="(170,2060)"/>
     <wire from="(730,2170)" to="(810,2170)"/>
     <wire from="(690,2110)" to="(700,2110)"/>
     <wire from="(820,1850)" to="(820,1860)"/>
     <wire from="(810,2160)" to="(810,2170)"/>
-    <wire from="(130,1920)" to="(130,1930)"/>
-    <wire from="(100,1930)" to="(100,1940)"/>
-    <wire from="(160,1710)" to="(160,1720)"/>
+    <wire from="(130,1680)" to="(130,1690)"/>
+    <wire from="(100,1690)" to="(100,1700)"/>
+    <wire from="(200,1510)" to="(200,1520)"/>
     <wire from="(380,2090)" to="(380,2100)"/>
+    <wire from="(110,1540)" to="(160,1540)"/>
     <wire from="(420,2050)" to="(420,2070)"/>
-    <wire from="(170,1760)" to="(170,1780)"/>
-    <wire from="(170,1720)" to="(170,1740)"/>
     <wire from="(840,2150)" to="(840,2170)"/>
     <wire from="(880,2020)" to="(900,2020)"/>
     <wire from="(710,2100)" to="(710,2140)"/>
@@ -41830,16 +41822,23 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(670,2090)" to="(690,2090)"/>
     <wire from="(470,2080)" to="(500,2080)"/>
     <wire from="(410,2030)" to="(430,2030)"/>
-    <wire from="(190,1730)" to="(210,1730)"/>
+    <wire from="(150,1530)" to="(170,1530)"/>
+    <wire from="(160,1580)" to="(180,1580)"/>
     <wire from="(320,2110)" to="(330,2110)"/>
+    <wire from="(170,1520)" to="(180,1520)"/>
     <wire from="(710,1860)" to="(710,1920)"/>
     <wire from="(890,2000)" to="(900,2000)"/>
     <wire from="(830,2140)" to="(840,2140)"/>
+    <wire from="(180,1650)" to="(180,1710)"/>
     <comp lib="5" loc="(1570,420)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="15"/>
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
+    </comp>
+    <comp lib="0" loc="(270,1790)" name="Tunnel">
+      <a name="label" val="input_signal"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="5" loc="(1410,1070)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -41870,10 +41869,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="16"/>
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#9bbf8c"/>
-    </comp>
-    <comp lib="0" loc="(100,1710)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="16"/>
     </comp>
     <comp lib="5" loc="(770,590)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -41963,6 +41958,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
+    <comp lib="0" loc="(220,1510)" name="Probe">
+      <a name="facing" val="south"/>
+      <a name="radix" val="16"/>
+    </comp>
     <comp lib="5" loc="(930,910)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
@@ -41981,6 +41980,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
+    <comp lib="0" loc="(170,1510)" name="Probe">
+      <a name="facing" val="south"/>
+      <a name="radix" val="16"/>
+    </comp>
     <comp lib="5" loc="(770,730)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="14"/>
@@ -41993,10 +41996,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#9bbf8c"/>
     </comp>
-    <comp lib="0" loc="(140,1710)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="16"/>
-    </comp>
     <comp lib="5" loc="(450,730)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="14"/>
@@ -42008,6 +42007,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="enable"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
+    <comp lib="5" loc="(40,1640)" name="Keyboard"/>
     <comp lib="5" loc="(1410,1390)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
@@ -42057,12 +42057,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
-    <comp lib="4" loc="(940,2000)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(90,1970)" name="OR Gate">
-      <a name="facing" val="south"/>
-      <a name="size" val="30"/>
-      <a name="inputs" val="2"/>
+    <comp lib="6" loc="(68,2029)" name="Text">
+      <a name="text" val="TODO"/>
     </comp>
+    <comp lib="4" loc="(940,2000)" name="D Flip-Flop"/>
     <comp lib="5" loc="(930,900)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="15"/>
@@ -42098,11 +42096,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="15"/>
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
-    </comp>
-    <comp lib="1" loc="(200,2020)" name="OR Gate">
-      <a name="facing" val="south"/>
-      <a name="size" val="30"/>
-      <a name="inputs" val="2"/>
     </comp>
     <comp lib="5" loc="(770,430)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42155,6 +42148,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="14"/>
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
+    </comp>
+    <comp lib="5" loc="(130,1680)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="enter"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="5" loc="(1570,590)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42218,10 +42216,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="current cell"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
-    <comp lib="0" loc="(170,1780)" name="Tunnel">
-      <a name="facing" val="north"/>
+    <comp lib="0" loc="(160,1580)" name="Tunnel">
+      <a name="facing" val="east"/>
       <a name="width" val="16"/>
-      <a name="label" val="in_debug"/>
+      <a name="label" val="input"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="5" loc="(450,1390)" name="DotMatrix">
@@ -42286,6 +42284,27 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="colour"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
+    <comp lib="0" loc="(180,1560)" name="Splitter">
+      <a name="facing" val="north"/>
+      <a name="fanout" val="5"/>
+      <a name="incoming" val="16"/>
+      <a name="appear" val="center"/>
+      <a name="bit1" val="0"/>
+      <a name="bit2" val="0"/>
+      <a name="bit3" val="1"/>
+      <a name="bit4" val="1"/>
+      <a name="bit5" val="1"/>
+      <a name="bit6" val="2"/>
+      <a name="bit7" val="2"/>
+      <a name="bit8" val="2"/>
+      <a name="bit9" val="3"/>
+      <a name="bit10" val="3"/>
+      <a name="bit11" val="3"/>
+      <a name="bit12" val="4"/>
+      <a name="bit13" val="4"/>
+      <a name="bit14" val="4"/>
+      <a name="bit15" val="4"/>
+    </comp>
     <comp lib="5" loc="(1410,1220)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="15"/>
@@ -42303,17 +42322,16 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
-    <comp loc="(90,2110)" name="IdentMove"/>
+    <comp lib="0" loc="(270,1750)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="input"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
     <comp lib="5" loc="(770,1060)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="15"/>
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
-    </comp>
-    <comp lib="0" loc="(30,1880)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="clk"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="5" loc="(1250,1070)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42488,6 +42506,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
+    <comp lib="0" loc="(160,2080)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="input_signal"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
     <comp lib="5" loc="(1410,890)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="14"/>
@@ -42528,10 +42551,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="14"/>
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
-    </comp>
-    <comp lib="0" loc="(210,1710)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="16"/>
     </comp>
     <comp lib="5" loc="(770,580)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42592,10 +42611,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
-    <comp lib="0" loc="(210,1980)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="label" val="end"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
+    <comp lib="6" loc="(119,2041)" name="Text">
+      <a name="text" val="set queen if figure not write"/>
     </comp>
     <comp lib="5" loc="(610,410)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42634,10 +42651,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="16"/>
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#48783a"/>
-    </comp>
-    <comp lib="0" loc="(160,1710)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="16"/>
     </comp>
     <comp lib="5" loc="(1570,1230)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42705,6 +42718,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
+    <comp lib="0" loc="(30,1640)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="clk"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
     <comp lib="5" loc="(1250,1060)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="15"/>
@@ -42740,6 +42758,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
+    <comp lib="0" loc="(100,2110)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="input"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
+    </comp>
     <comp lib="5" loc="(1090,1210)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="14"/>
@@ -42769,10 +42793,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="15"/>
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
-    </comp>
-    <comp lib="0" loc="(160,2050)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="16"/>
     </comp>
     <comp lib="5" loc="(770,1370)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42866,6 +42886,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
+    <comp lib="0" loc="(200,1510)" name="Probe">
+      <a name="facing" val="south"/>
+      <a name="radix" val="16"/>
+    </comp>
     <comp lib="5" loc="(1250,1550)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
@@ -42895,6 +42919,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="16"/>
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#9bbf8c"/>
+    </comp>
+    <comp lib="0" loc="(160,2060)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="end"/>
+      <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
     <comp lib="5" loc="(1410,740)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42935,10 +42964,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
-    <comp lib="5" loc="(130,1920)" name="Button">
-      <a name="facing" val="south"/>
-      <a name="label" val="enter"/>
-      <a name="labelloc" val="east"/>
+    <comp lib="1" loc="(200,2070)" name="OR Gate">
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
     </comp>
     <comp lib="5" loc="(1250,1050)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42951,6 +42979,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="16"/>
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#48783a"/>
+    </comp>
+    <comp lib="0" loc="(150,1510)" name="Probe">
+      <a name="facing" val="south"/>
+      <a name="radix" val="16"/>
     </comp>
     <comp lib="5" loc="(450,590)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -42993,6 +43025,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#9bbf8c"/>
     </comp>
+    <comp lib="1" loc="(90,1730)" name="OR Gate">
+      <a name="facing" val="south"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+    </comp>
     <comp lib="5" loc="(1570,430)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
@@ -43034,6 +43071,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="clk"/>
       <a name="labelfont" val="SansSerif plain 9"/>
     </comp>
+    <comp loc="(200,1770)" name="IdentMove"/>
     <comp lib="5" loc="(1250,410)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="14"/>
@@ -43143,21 +43181,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="appear" val="center"/>
       <a name="bit1" val="none"/>
     </comp>
-    <comp lib="0" loc="(160,2110)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="width" val="16"/>
-      <a name="label" val="in_debug"/>
-      <a name="labelfont" val="SansSerif plain 9"/>
-    </comp>
     <comp lib="5" loc="(930,1230)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="16"/>
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#9bbf8c"/>
-    </comp>
-    <comp lib="0" loc="(190,1710)" name="Probe">
-      <a name="facing" val="south"/>
-      <a name="radix" val="16"/>
     </comp>
     <comp lib="5" loc="(770,1220)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -43165,14 +43193,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#47402e"/>
       <a name="offcolor" val="#9bbf8c00"/>
     </comp>
-    <comp lib="5" loc="(40,1880)" name="Keyboard">
-      <a name="trigger" val="falling"/>
-    </comp>
     <comp lib="5" loc="(610,890)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
       <a name="matrixrows" val="14"/>
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
+    </comp>
+    <comp lib="0" loc="(110,1510)" name="Probe">
+      <a name="facing" val="south"/>
+      <a name="radix" val="16"/>
+    </comp>
+    <comp lib="5" loc="(80,1680)" name="Button">
+      <a name="facing" val="south"/>
+      <a name="label" val="reset"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="5" loc="(610,740)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
@@ -43207,11 +43241,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="14"/>
       <a name="color" val="#ebcb95"/>
       <a name="offcolor" val="#9bbf8c00"/>
-    </comp>
-    <comp lib="5" loc="(80,1920)" name="Button">
-      <a name="facing" val="south"/>
-      <a name="label" val="reset"/>
-      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(640,1860)" name="Tunnel">
       <a name="facing" val="north"/>
@@ -43251,27 +43280,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="matrixrows" val="16"/>
       <a name="color" val="#fff8e700"/>
       <a name="offcolor" val="#48783a"/>
-    </comp>
-    <comp lib="0" loc="(170,1760)" name="Splitter">
-      <a name="facing" val="north"/>
-      <a name="fanout" val="5"/>
-      <a name="incoming" val="16"/>
-      <a name="appear" val="center"/>
-      <a name="bit1" val="0"/>
-      <a name="bit2" val="0"/>
-      <a name="bit3" val="1"/>
-      <a name="bit4" val="1"/>
-      <a name="bit5" val="1"/>
-      <a name="bit6" val="2"/>
-      <a name="bit7" val="2"/>
-      <a name="bit8" val="2"/>
-      <a name="bit9" val="3"/>
-      <a name="bit10" val="3"/>
-      <a name="bit11" val="3"/>
-      <a name="bit12" val="4"/>
-      <a name="bit13" val="4"/>
-      <a name="bit14" val="4"/>
-      <a name="bit15" val="4"/>
     </comp>
     <comp lib="5" loc="(930,420)" name="DotMatrix">
       <a name="matrixcols" val="16"/>
